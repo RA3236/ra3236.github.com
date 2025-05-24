@@ -1,0 +1,158 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 800 500">
+<rect width="800" height="500" x="0" y="0" fill="#ffffff"></rect>
+<path d="M240.5 160L240.5 340" fill="transparent" stroke="#E0E6F1" class="zr9-cls-2978"></path>
+<path d="M293.5 160L293.5 340" fill="transparent" stroke="#E0E6F1" class="zr9-cls-2978"></path>
+<path d="M346.5 160L346.5 340" fill="transparent" stroke="#E0E6F1" class="zr9-cls-2978"></path>
+<path d="M400.5 160L400.5 340" fill="transparent" stroke="#E0E6F1" class="zr9-cls-2978"></path>
+<path d="M453.5 160L453.5 340" fill="transparent" stroke="#E0E6F1" class="zr9-cls-2978"></path>
+<path d="M506.5 160L506.5 340" fill="transparent" stroke="#E0E6F1" class="zr9-cls-2978"></path>
+<path d="M560.5 160L560.5 340" fill="transparent" stroke="#E0E6F1" class="zr9-cls-2978"></path>
+<path d="M240.5 340L240.5 160" fill="transparent" stroke="#6E7079" stroke-linecap="round" class="zr9-cls-2978"></path>
+<path d="M240 340.5L235 340.5" fill="transparent" stroke="#6E7079" class="zr9-cls-2978"></path>
+<path d="M240 304.5L235 304.5" fill="transparent" stroke="#6E7079" class="zr9-cls-2978"></path>
+<path d="M240 268.5L235 268.5" fill="transparent" stroke="#6E7079" class="zr9-cls-2978"></path>
+<path d="M240 232.5L235 232.5" fill="transparent" stroke="#6E7079" class="zr9-cls-2978"></path>
+<path d="M240 196.5L235 196.5" fill="transparent" stroke="#6E7079" class="zr9-cls-2978"></path>
+<path d="M240 160.5L235 160.5" fill="transparent" stroke="#6E7079" class="zr9-cls-2978"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(232 322)" fill="#6E7079">First Past the Post</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(232 286)" fill="#6E7079">Anti-Plurality</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(232 250)" fill="#6E7079">Instant Runoff</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(232 214)" fill="#6E7079">Ranked Pairs</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(232 178)" fill="#6E7079">Proportional</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(240 348)" fill="#6E7079">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(293.3333 348)" fill="#6E7079">30</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(346.6667 348)" fill="#6E7079">60</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(400 348)" fill="#6E7079">90</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(453.3333 348)" fill="#6E7079">120</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(506.6667 348)" fill="#6E7079">150</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(560 348)" fill="#6E7079">180</text>
+<path d="M240 307.6l0 0l0 28.8l0 0Z" fill="#FF3030" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr9-cls-2979"></path>
+<path d="M240 271.6l0 0l0 28.8l0 0Z" fill="#FF3030" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr9-cls-2979"></path>
+<path d="M240 235.6l0 0l0 28.8l0 0Z" fill="#FF3030" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr9-cls-2979"></path>
+<path d="M240 199.6l0 0l0 28.8l0 0Z" fill="#FF3030" ecmeta_series_index="0" ecmeta_data_index="3" ecmeta_ssr_type="chart" class="zr9-cls-2979"></path>
+<path d="M240 163.6l10.7 0l0 28.8l-10.7 0Z" fill="#FF3030" ecmeta_series_index="0" ecmeta_data_index="4" ecmeta_ssr_type="chart" class="zr9-cls-2979"></path>
+<path d="M240 307.6l0 0l0 28.8l0 0Z" fill="#FF9900" ecmeta_series_index="1" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr9-cls-2980"></path>
+<path d="M240 271.6l268.4 0l0 28.8l-268.4 0Z" fill="#FF9900" ecmeta_series_index="1" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr9-cls-2980"></path>
+<path d="M240 235.6l0 0l0 28.8l0 0Z" fill="#FF9900" ecmeta_series_index="1" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr9-cls-2980"></path>
+<path d="M240 199.6l0 0l0 28.8l0 0Z" fill="#FF9900" ecmeta_series_index="1" ecmeta_data_index="3" ecmeta_ssr_type="chart" class="zr9-cls-2980"></path>
+<path d="M250.7 163.6l12.4 0l0 28.8l-12.4 0Z" fill="#FF9900" ecmeta_series_index="1" ecmeta_data_index="4" ecmeta_ssr_type="chart" class="zr9-cls-2980"></path>
+<path d="M240 307.6l0 0l0 28.8l0 0Z" fill="#FFFF33" ecmeta_series_index="2" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr9-cls-2981"></path>
+<path d="M508.4 271.6l0 0l0 28.8l0 0Z" fill="#FFFF33" ecmeta_series_index="2" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr9-cls-2981"></path>
+<path d="M240 235.6l0 0l0 28.8l0 0Z" fill="#FFFF33" ecmeta_series_index="2" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr9-cls-2981"></path>
+<path d="M240 199.6l0 0l0 28.8l0 0Z" fill="#FFFF33" ecmeta_series_index="2" ecmeta_data_index="3" ecmeta_ssr_type="chart" class="zr9-cls-2981"></path>
+<path d="M263.1 163.6l42.7 0l0 28.8l-42.7 0Z" fill="#FFFF33" ecmeta_series_index="2" ecmeta_data_index="4" ecmeta_ssr_type="chart" class="zr9-cls-2981"></path>
+<path d="M240.5 308.1l267.4 0l0 27.8l-267.4 0Z" fill="#33CC33" stroke="#000000" ecmeta_series_index="3" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr9-cls-2982"></path>
+<path d="M508.4 271.6l0 0l0 28.8l0 0Z" fill="#33CC33" stroke="#000000" ecmeta_series_index="3" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr9-cls-2982"></path>
+<path d="M240.5 236.1l207 0l0 27.8l-207 0Z" fill="#33CC33" stroke="#FF0000" ecmeta_series_index="3" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr9-cls-2982"></path>
+<path d="M240.5 200.1l207 0l0 27.8l-207 0Z" fill="#33CC33" stroke="#000000" ecmeta_series_index="3" ecmeta_data_index="3" ecmeta_ssr_type="chart" class="zr9-cls-2982"></path>
+<path d="M306.3 164.1l96.8 0l0 27.8l-96.8 0Z" fill="#33CC33" stroke="#000000" ecmeta_series_index="3" ecmeta_data_index="4" ecmeta_ssr_type="chart" class="zr9-cls-2982"></path>
+<path d="M508.4 307.6l0 0l0 28.8l0 0Z" fill="#00CCCC" ecmeta_series_index="4" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr9-cls-2983"></path>
+<path d="M508.4 271.6l0 0l0 28.8l0 0Z" fill="#00CCCC" ecmeta_series_index="4" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr9-cls-2983"></path>
+<path d="M448 235.6l60.4 0l0 28.8l-60.4 0Z" fill="#00CCCC" ecmeta_series_index="4" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr9-cls-2983"></path>
+<path d="M448 199.6l60.4 0l0 28.8l-60.4 0Z" fill="#00CCCC" ecmeta_series_index="4" ecmeta_data_index="3" ecmeta_ssr_type="chart" class="zr9-cls-2983"></path>
+<path d="M403.6 163.6l56.9 0l0 28.8l-56.9 0Z" fill="#00CCCC" ecmeta_series_index="4" ecmeta_data_index="4" ecmeta_ssr_type="chart" class="zr9-cls-2983"></path>
+<path d="M508.4 307.6l0 0l0 28.8l0 0Z" fill="#3399FF" ecmeta_series_index="5" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr9-cls-2984"></path>
+<path d="M508.4 271.6l0 0l0 28.8l0 0Z" fill="#3399FF" ecmeta_series_index="5" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr9-cls-2984"></path>
+<path d="M508.4 235.6l0 0l0 28.8l0 0Z" fill="#3399FF" ecmeta_series_index="5" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr9-cls-2984"></path>
+<path d="M508.4 199.6l0 0l0 28.8l0 0Z" fill="#3399FF" ecmeta_series_index="5" ecmeta_data_index="3" ecmeta_ssr_type="chart" class="zr9-cls-2984"></path>
+<path d="M460.4 163.6l48 0l0 28.8l-48 0Z" fill="#3399FF" ecmeta_series_index="5" ecmeta_data_index="4" ecmeta_ssr_type="chart" class="zr9-cls-2984"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(240 322)" fill="#eee" stroke="#FF3030" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(240 286)" fill="#eee" stroke="#FF3030" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(240 250)" fill="#eee" stroke="#FF3030" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(240 214)" fill="#eee" stroke="#FF3030" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(245.3333 178)" fill="#eee" stroke="#FF3030" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">6</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(240 322)" fill="#333">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(374.2222 286)" fill="#333">151</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(240 250)" fill="#333">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(240 214)" fill="#333">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(256.8889 178)" fill="#333">7</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(240 322)" fill="#333">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(508.4444 286)" fill="#333">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(240 250)" fill="#333">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(240 214)" fill="#333">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(284.4444 178)" fill="#333">24</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(374.2222 322)" fill="#333">151</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(508.4444 286)" fill="#333">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(344 250)" fill="#333">117</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(344 214)" fill="#333">117</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(354.6667 178)" fill="#333">55</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(508.4444 322)" fill="#333">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(508.4444 286)" fill="#333">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(478.2222 250)" fill="#333">34</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(478.2222 214)" fill="#333">34</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(432 178)" fill="#333">32</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(508.4444 322)" fill="#333">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(508.4444 286)" fill="#333">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(508.4444 250)" fill="#333">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(508.4444 214)" fill="#333">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(484.4444 178)" fill="#333">27</text>
+<path d="M-5 -5l469 0l0 24l-469 0Z" transform="translate(170.52 481)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0" class="zr9-cls-2978"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(170.52 481)" fill="#FF3030" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="legend" ecmeta_silent="true" class="zr9-cls-2978"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(170.52 481)" fill="#333">Party 0</text>
+<path d="M0 0l68.2 0l0 14l-68.2 0Z" transform="translate(170.52 481)" fill="transparent" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="legend" class="zr9-cls-2985"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(248.68 481)" fill="#FF9900" ecmeta_series_index="1" ecmeta_data_index="1" ecmeta_ssr_type="legend" ecmeta_silent="true" class="zr9-cls-2978"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(248.68 481)" fill="#333">Party 1</text>
+<path d="M0 0l68.2 0l0 14l-68.2 0Z" transform="translate(248.68 481)" fill="transparent" ecmeta_series_index="1" ecmeta_data_index="1" ecmeta_ssr_type="legend" class="zr9-cls-2985"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(326.84 481)" fill="#FFFF33" ecmeta_series_index="2" ecmeta_data_index="2" ecmeta_ssr_type="legend" ecmeta_silent="true" class="zr9-cls-2978"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(326.84 481)" fill="#333">Party 2</text>
+<path d="M0 0l68.2 0l0 14l-68.2 0Z" transform="translate(326.84 481)" fill="transparent" ecmeta_series_index="2" ecmeta_data_index="2" ecmeta_ssr_type="legend" class="zr9-cls-2985"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(405 481)" fill="#33CC33" ecmeta_series_index="3" ecmeta_data_index="3" ecmeta_ssr_type="legend" ecmeta_silent="true" class="zr9-cls-2978"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(405 481)" fill="#333">Party 3</text>
+<path d="M0 0l68.2 0l0 14l-68.2 0Z" transform="translate(405 481)" fill="transparent" ecmeta_series_index="3" ecmeta_data_index="3" ecmeta_ssr_type="legend" class="zr9-cls-2985"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(483.16 481)" fill="#00CCCC" ecmeta_series_index="4" ecmeta_data_index="4" ecmeta_ssr_type="legend" ecmeta_silent="true" class="zr9-cls-2978"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(483.16 481)" fill="#333">Party 4</text>
+<path d="M0 0l68.2 0l0 14l-68.2 0Z" transform="translate(483.16 481)" fill="transparent" ecmeta_series_index="4" ecmeta_data_index="4" ecmeta_ssr_type="legend" class="zr9-cls-2985"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(561.32 481)" fill="#3399FF" ecmeta_series_index="5" ecmeta_data_index="5" ecmeta_ssr_type="legend" ecmeta_silent="true" class="zr9-cls-2978"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(561.32 481)" fill="#333">Party 5</text>
+<path d="M0 0l68.2 0l0 14l-68.2 0Z" transform="translate(561.32 481)" fill="transparent" ecmeta_series_index="5" ecmeta_data_index="5" ecmeta_ssr_type="legend" class="zr9-cls-2985"></path>
+<path d="M375.5 340L375.5 160" fill="transparent" stroke="black" stroke-dasharray="4,2" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr9-cls-2986"></path>
+<path d="M4 0A4 4 0 1 1 4 -0.0004" transform="matrix(-1,0,0,-1,375.1111,340)" fill="black" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr9-cls-2987"></path>
+<path d="M4 0A4 4 0 1 1 4 -0.4A4 4 0 0 1 4 0" transform="translate(375.1111 160)" fill="black" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr9-cls-2987"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(375.1111 155)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">76</text>
+<path d="M-94.4 -5l188.7 0l0 28l-188.7 0Z" transform="translate(400 5)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0" class="zr9-cls-2978"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:18px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="9" transform="translate(400 5)" fill="#464646">Seat Projections (125)</text>
+<style ><![CDATA[
+.zr9-cls-2978:hover {
+pointer-events:none;
+}
+.zr9-cls-2979:hover {
+cursor:pointer;
+fill:rgba(255,52,52,1);
+}
+.zr9-cls-2980:hover {
+cursor:pointer;
+fill:rgba(255,168,0,1);
+}
+.zr9-cls-2981:hover {
+cursor:pointer;
+fill:rgba(255,255,56,1);
+}
+.zr9-cls-2982:hover {
+cursor:pointer;
+fill:rgba(56,224,56,1);
+}
+.zr9-cls-2983:hover {
+cursor:pointer;
+fill:rgba(0,224,224,1);
+}
+.zr9-cls-2984:hover {
+cursor:pointer;
+fill:rgba(56,168,255,1);
+}
+.zr9-cls-2985:hover {
+cursor:pointer;
+fill:rgba(0,0,0,0);
+}
+.zr9-cls-2986:hover {
+cursor:pointer;
+stroke-width:3;
+}
+.zr9-cls-2987:hover {
+cursor:pointer;
+fill:rgba(0,0,0,1);
+}
+
+]]>
+
+</style>
+</svg>

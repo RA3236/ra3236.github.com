@@ -1,0 +1,106 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 800 500">
+<rect width="800" height="500" x="0" y="0" fill="#ffffff"></rect>
+<path d="M240.5 160L240.5 340" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M304.5 160L304.5 340" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M368.5 160L368.5 340" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M432.5 160L432.5 340" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M496.5 160L496.5 340" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M560.5 160L560.5 340" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M240.5 340L240.5 160" fill="transparent" stroke="#6E7079" stroke-linecap="round" class="zr0-cls-0"></path>
+<path d="M240 340.5L235 340.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M240 295.5L235 295.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M240 250.5L235 250.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M240 205.5L235 205.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M240 160.5L235 160.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(232 317.5)" fill="#6E7079">First Past the Post</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(232 272.5)" fill="#6E7079">Anti-Plurality</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(232 227.5)" fill="#6E7079">Instant Runoff</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(232 182.5)" fill="#6E7079">Ranked Pairs</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(240 348)" fill="#6E7079">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(304 348)" fill="#6E7079">20,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(368 348)" fill="#6E7079">40,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(432 348)" fill="#6E7079">60,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(496 348)" fill="#6E7079">80,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(560 348)" fill="#6E7079">100,000</text>
+<path d="M240 299.5l0 0l0 36l0 0Z" fill="#5470c6" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr0-cls-1"></path>
+<path d="M240 254.5l0 0l0 36l0 0Z" fill="#5470c6" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr0-cls-1"></path>
+<path d="M240 209.5l0 0l0 36l0 0Z" fill="#5470c6" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr0-cls-1"></path>
+<path d="M240 164.5l0 0l0 36l0 0Z" fill="#5470c6" ecmeta_series_index="0" ecmeta_data_index="3" ecmeta_ssr_type="chart" class="zr0-cls-1"></path>
+<path d="M240 299.5l0 0l0 36l0 0Z" fill="#91cc75" ecmeta_series_index="1" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr0-cls-2"></path>
+<path d="M240 254.5l0 0l0 36l0 0Z" fill="#91cc75" ecmeta_series_index="1" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr0-cls-2"></path>
+<path d="M240 209.5l0 0l0 36l0 0Z" fill="#91cc75" ecmeta_series_index="1" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr0-cls-2"></path>
+<path d="M240 164.5l0 0l0 36l0 0Z" fill="#91cc75" ecmeta_series_index="1" ecmeta_data_index="3" ecmeta_ssr_type="chart" class="zr0-cls-2"></path>
+<path d="M240 299.5l0.4 0l0 36l-0.4 0Z" fill="#fac858" ecmeta_series_index="2" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M240 254.5l0.6 0l0 36l-0.6 0Z" fill="#fac858" ecmeta_series_index="2" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M240 209.5l0.7 0l0 36l-0.7 0Z" fill="#fac858" ecmeta_series_index="2" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M240 164.5l0 0l0 36l0 0Z" fill="#fac858" ecmeta_series_index="2" ecmeta_data_index="3" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M240.4 299.5l206.8 0l0 36l-206.8 0Z" fill="#ee6666" ecmeta_series_index="3" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr0-cls-4"></path>
+<path d="M240.6 254.5l229.9 0l0 36l-229.9 0Z" fill="#ee6666" ecmeta_series_index="3" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr0-cls-4"></path>
+<path d="M240.7 209.5l143.9 0l0 36l-143.9 0Z" fill="#ee6666" ecmeta_series_index="3" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr0-cls-4"></path>
+<path d="M240 164.5l0 0l0 36l0 0Z" fill="#ee6666" ecmeta_series_index="3" ecmeta_data_index="3" ecmeta_ssr_type="chart" class="zr0-cls-4"></path>
+<path d="M447.2 299.5l112.4 0l0 36l-112.4 0Z" fill="#73c0de" ecmeta_series_index="4" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr0-cls-5"></path>
+<path d="M470.5 254.5l89 0l0 36l-89 0Z" fill="#73c0de" ecmeta_series_index="4" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr0-cls-5"></path>
+<path d="M384.6 209.5l174.5 0l0 36l-174.5 0Z" fill="#73c0de" ecmeta_series_index="4" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr0-cls-5"></path>
+<path d="M240 164.5l317.8 0l0 36l-317.8 0Z" fill="#73c0de" ecmeta_series_index="4" ecmeta_data_index="3" ecmeta_ssr_type="chart" class="zr0-cls-5"></path>
+<path d="M559.5 299.5l0.5 0l0 36l-0.5 0Z" fill="#3ba272" ecmeta_series_index="5" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr0-cls-6"></path>
+<path d="M559.4 254.5l0.6 0l0 36l-0.6 0Z" fill="#3ba272" ecmeta_series_index="5" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr0-cls-6"></path>
+<path d="M559.1 209.5l0.9 0l0 36l-0.9 0Z" fill="#3ba272" ecmeta_series_index="5" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr0-cls-6"></path>
+<path d="M557.8 164.5l2.2 0l0 36l-2.2 0Z" fill="#3ba272" ecmeta_series_index="5" ecmeta_data_index="3" ecmeta_ssr_type="chart" class="zr0-cls-6"></path>
+<path d="M-5 -5l631.7 0l0 48l-631.7 0Z" transform="translate(89.14 457)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0" class="zr0-cls-0"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(89.14 457)" fill="#5470c6" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="legend" ecmeta_silent="true" class="zr0-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(89.14 457)" fill="#333">closest to average</text>
+<path d="M0 0l127.8 0l0 14l-127.8 0Z" transform="translate(89.14 457)" fill="transparent" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="legend" class="zr0-cls-7"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(226.94 457)" fill="#91cc75" ecmeta_series_index="1" ecmeta_data_index="1" ecmeta_ssr_type="legend" ecmeta_silent="true" class="zr0-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(226.94 457)" fill="#333">not closest to average</text>
+<path d="M0 0l148 0l0 14l-148 0Z" transform="translate(226.94 457)" fill="transparent" ecmeta_series_index="1" ecmeta_data_index="1" ecmeta_ssr_type="legend" class="zr0-cls-7"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(384.9 457)" fill="#fac858" ecmeta_series_index="2" ecmeta_data_index="2" ecmeta_ssr_type="legend" ecmeta_silent="true" class="zr0-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(384.9 457)" fill="#333">not Condorcet, closest to average</text>
+<path d="M0 0l210.2 0l0 14l-210.2 0Z" transform="translate(384.9 457)" fill="transparent" ecmeta_series_index="2" ecmeta_data_index="2" ecmeta_ssr_type="legend" class="zr0-cls-7"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(605.14 457)" fill="#ee6666" ecmeta_series_index="3" ecmeta_data_index="3" ecmeta_ssr_type="legend" ecmeta_silent="true" class="zr0-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(605.14 457)" fill="#333">not Condorcet</text>
+<path d="M0 0l105.7 0l0 14l-105.7 0Z" transform="translate(605.14 457)" fill="transparent" ecmeta_series_index="3" ecmeta_data_index="3" ecmeta_ssr_type="legend" class="zr0-cls-7"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(89.14 481)" fill="#73c0de" ecmeta_series_index="4" ecmeta_data_index="4" ecmeta_ssr_type="legend" ecmeta_silent="true" class="zr0-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(89.14 481)" fill="#333">Condorcet, closest to average</text>
+<path d="M0 0l190.1 0l0 14l-190.1 0Z" transform="translate(89.14 481)" fill="transparent" ecmeta_series_index="4" ecmeta_data_index="4" ecmeta_ssr_type="legend" class="zr0-cls-7"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(289.22 481)" fill="#3ba272" ecmeta_series_index="5" ecmeta_data_index="5" ecmeta_ssr_type="legend" ecmeta_silent="true" class="zr0-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(289.22 481)" fill="#333">Condorcet</text>
+<path d="M0 0l85.6 0l0 14l-85.6 0Z" transform="translate(289.22 481)" fill="transparent" ecmeta_series_index="5" ecmeta_data_index="5" ecmeta_ssr_type="legend" class="zr0-cls-7"></path>
+<path d="M-60.6 -5l121.2 0l0 28l-121.2 0Z" transform="translate(400 5)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0" class="zr0-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:18px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="9" transform="translate(400 5)" fill="#464646">Winner Types</text>
+<style ><![CDATA[
+.zr0-cls-0:hover {
+pointer-events:none;
+}
+.zr0-cls-1:hover {
+cursor:pointer;
+fill:rgba(92,123,217,1);
+}
+.zr0-cls-2:hover {
+cursor:pointer;
+fill:rgba(159,224,128,1);
+}
+.zr0-cls-3:hover {
+cursor:pointer;
+fill:rgba(255,220,96,1);
+}
+.zr0-cls-4:hover {
+cursor:pointer;
+fill:rgba(255,112,112,1);
+}
+.zr0-cls-5:hover {
+cursor:pointer;
+fill:rgba(126,211,244,1);
+}
+.zr0-cls-6:hover {
+cursor:pointer;
+fill:rgba(64,178,125,1);
+}
+.zr0-cls-7:hover {
+cursor:pointer;
+fill:rgba(0,0,0,0);
+}
+
+]]>
+
+</style>
+</svg>
